@@ -4,7 +4,7 @@
 ### **Linguagens de Programação conhecidas:**
    * C
    * Javascript
-   * Pyton
+   * Pytone
    * ...
 ***
 >Metodologias de Desenvolvimento de Software @ 2020
